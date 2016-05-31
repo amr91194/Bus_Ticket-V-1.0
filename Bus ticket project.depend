@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1464674248 source:c:\users\m.ahad javed\desktop\bus ticket project\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	"hash.h"
+	<stdio.h>
+	<fstream>
+	"BUS.h"
+	"List.h"
+	"conio.h"
+	<conio.h>
+	<fstream>
+	<string.h>
+	<windows.h>
+	"linklist.h"
+	"hashing.h"
+
+1464617170 source:c:\users\amr\downloads\bus ticket project\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<fstream>
+
+1464672611 c:\users\m.ahad javed\desktop\bus ticket project\hash.h
+	<string.h>
+	<cstring>
+	<stdio.h>
+
+1464674351 c:\users\m.ahad javed\desktop\bus ticket project\bus.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<fstream>
+
+1464673785 c:\users\m.ahad javed\desktop\bus ticket project\list.h
+	<windows.h>
+	<iostream>
+	"node.h"
+
+1464671944 c:\users\m.ahad javed\desktop\bus ticket project\node.h
+	<windows.h>
+	<string>
+	<iostream>
+
